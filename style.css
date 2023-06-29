@@ -131,6 +131,9 @@ img{
 	border: 1.4px solid black;
 	border-radius: 10px;
 }
+.color3{
+	color: rgb(235, 183, 52) ;
+}
 @media screen and (max-width:740px){
 	textbox h1{
 	font-size: 36px;
